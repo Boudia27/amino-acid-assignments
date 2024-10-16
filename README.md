@@ -10,24 +10,8 @@ To use the dataset, simply import the amino_acid_assignments.py file into your p
 
 Clone the repository to your local machine using the following command in your terminal:
 
-bash
-Copy code
 git clone https://github.com/yourusername/amino-acid-assignments.git
-(Replace yourusername with your GitHub username and amino-acid-assignments with your repository name.)
-
-Navigate into your repository directory:
-
-bash
-Copy code
 cd amino-acid-assignments
-Create a new Python file (e.g., amino_acid_assignments.py) and paste your code into this file.
-
-Optionally, create a README.md file (if you didn’t do so during repository creation) to explain how to use your code, provide context, and include any relevant citations.
-
-Add, commit, and push your changes:
-
-bash
-Copy code
 git add .
 git commit -m "Initial commit of amino acid assignments"
 git push origin main
